@@ -1,6 +1,5 @@
 source :rubygems
 
-gem 'pg_search'
 gem "factory_bot"
 gem "ffaker"
 gem 'database_cleaner'
@@ -12,6 +11,7 @@ gem "activerecord"
 gem "sinatra-activerecord"
 gem 'pg'
 gem 'rake'
+gem 'pg_search'
 
 group :development do
  gem "tux"

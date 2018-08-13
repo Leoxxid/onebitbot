@@ -1,5 +1,11 @@
 source :rubygems
 
+gem "factory_bot"
+gem "ffaker"
+gem 'database_cleaner'
+gem "factory_bot"
+gem "ffaker"
+gem 'database_cleaner'
 gem 'sinatra'
 gem "activerecord"
 gem "sinatra-activerecord"

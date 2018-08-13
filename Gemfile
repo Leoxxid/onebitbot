@@ -1,5 +1,6 @@
 source :rubygems
 
+gem 'pg_search'
 gem "factory_bot"
 gem "ffaker"
 gem 'database_cleaner'
